@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+!.env.example
+app.py.backup
+app.py.pre-orchestrator
